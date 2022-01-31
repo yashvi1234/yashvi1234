@@ -6,6 +6,7 @@
                       Instagram I'd: yashvi2322
                       Facebook I'd: https://www.facebook.com/yashvi.singh.7583
                       Tweeter Handle: @YashviS31274379
+                      Linktree link: https://linktr.ee/Yashvi_18
 
 <!---
 yashvi1234/yashvi1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
