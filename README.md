@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding, Making projects, ML/AI, web development, DSA and many more.
 - 🌱 I’m currently learning C++, Python and Deep learning, Backend web development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: linkedin profile: https://www.linkedin.com/in/yashvi-singh-358414202
-                      Instagram I'd: yashvi2322
+- 📫 How to reach me: linkedin profile: https://www.linkedin.com/in/rtr-yashvi-singh-358414202/
+                      Instagram I'd: _esha81_
                       Facebook I'd: https://www.facebook.com/yashvi.singh.7583
                       Tweeter Handle: @YashviS31274379
                       Linktree link: https://linktr.ee/Yashvi_18
